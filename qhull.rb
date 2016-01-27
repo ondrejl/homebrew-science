@@ -1,7 +1,7 @@
 class Qhull < Formula
   desc "Qhull is a code for computing convex hulls in n dimensions."
   homepage "http://www.qhull.org/"
-  url "http://www.qhull.org/download/qhull-2012.1-src.tgz"
+  url "http://www.qhull.org/download/qhull-2015.2-src.tgz"
   mirror "http://lil.fr.distfiles.macports.org/qhull/qhull-2012.1-src.tgz"
   sha256 "a35ecaa610550b7f05c3ce373d89c30cf74b059a69880f03080c556daebcff88"
 
